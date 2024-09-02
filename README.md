@@ -2,7 +2,7 @@
 
 ## Passo 1: Abrir a raiz do projeto no terminal
 
-## sempre que editar o código rodar: 
+## Sempre que editar o código rodar: 
 ### Passo 2: Gerar a build do projeto
         docker build -t meu-projeto-java . 
 
