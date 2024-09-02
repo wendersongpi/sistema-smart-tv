@@ -1,7 +1,11 @@
 # sistema-smart-tv
 
-## abrir no projeto no terminal
-## rodar: docker build -t meu-projeto-java . 
-        -> para gerar a build do projeto
-## rodar: docker run --rm meu-projeto-java 
-        -> para executar as intruções do main
+## Passo 1: Abrir a raiz do projeto no terminal
+
+## sempre que editar o código rodar: 
+### Passo 2: Gerar a build do projeto
+        docker build -t meu-projeto-java . 
+
+## Rodar: 
+### Passo 3: Executar as instruções do main
+        docker run --rm meu-projeto-java 
